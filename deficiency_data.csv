@@ -1,0 +1,11 @@
+Patient_ID,Age_Group,Gender,Region,Iron_Level_mg_dL,VitaminD_Level_ng_mL,Hemoglobin_g_dL,Deficiency_Status
+201,Child,Male,Urban,45,15,10.2,High
+202,Adult,Female,Rural,30,12,9.5,High
+203,Senior,Male,Rural,60,25,12.5,Low
+204,Adult,Male,Urban,85,32,14.0,None
+205,Child,Female,Rural,35,10,9.0,High
+206,Senior,Female,Urban,70,22,11.8,Low
+207,Adult,Female,Urban,40,18,10.5,Moderate
+208,Child,Male,Rural,25,8,8.5,High
+209,Adult,Male,Rural,65,28,13.2,Low
+210,Senior,Female,Rural,55,16,11.0,Moderate
